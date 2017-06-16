@@ -25,15 +25,15 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Home
+    url: 'https://thegrid.ai/insurance-simplified/?cache=no'
+    type: external
   - name: About us...
     id: 31dfc866-c524-4740-9dac-32a224fd5ab5
     type: content
   - name: Legal information
     id: 3a1c42df-099f-402c-b188-cc8500d8f113
     type: content
-  - name: Home
-    url: 'https://thegrid.ai/insurance-simplified/?cache=no'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ba3aee9-1cd2-456f-aa68-60c392087034.png
 title: Insurance Simplified
