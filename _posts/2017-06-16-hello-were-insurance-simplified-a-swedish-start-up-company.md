@@ -1,13 +1,10 @@
 ---
 inFeed: true
-description: >-
-  Founded 2016 and currently developing a unique AI based intelligent digital
-  insurance advisor – DrJones®. We aim to demystify and simplify insurance by
-  making the complicated uncomplicated.
-dateModified: '2017-06-16T13:18:04.193Z'
-datePublished: '2017-06-16T13:18:06.781Z'
+description: "Founded 2016 and currently developing a unique AI based intelligent digital insurance advisor – DrJones®.\_We aim to demystify and simplify insurance by making the complicated uncomplicated."
+dateModified: '2017-06-16T13:27:49.487Z'
+datePublished: '2017-06-16T13:27:49.632Z'
 title: >-
-  Hello. We’re Insurance Simplified.  A Swedish start-up company and newcomer in
+  Hello. We’re Insurance Simplified. A Swedish start-up company and newcomer in
   the Scandinavian and European insurance industry.
 author: []
 publisher: {}
