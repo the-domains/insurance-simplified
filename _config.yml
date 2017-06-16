@@ -1,0 +1,55 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Insurance Simplified
+layout_spectrum: 0.1824520817026496
+typography_spectrum: 0.7758197234943509
+color:
+  brandStrength: 0.0464034762699157
+  lightness: 0.8410979334730655
+  saturation: 0.9550820244476199
+  rhythmicContrast: 0.2899885973893106
+  brandColors:
+    - '#395795'
+    - '#FDFDFD'
+    - '#6D93A8'
+    - '#C1CCBE'
+    - '#7D1C2E'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece55d52-fd3d-49a4-8a23-429a07b6d6a8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ece55d52-fd3d-49a4-8a23-429a07b6d6a8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Insurance Simplified
+description: We make Insurance uncomplicated
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f026e6c-7c74-472e-9f0e-c9c4ff3ba09b.png
+content_rating:
+  adult: false
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ba3aee9-1cd2-456f-aa68-60c392087034.png
