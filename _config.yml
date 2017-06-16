@@ -31,6 +31,9 @@ navigation:
   - name: Legal information
     id: 3a1c42df-099f-402c-b188-cc8500d8f113
     type: content
+  - name: Home
+    id: 4b219e9b-28b7-4560-bcef-2f00a48ebbaf
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ba3aee9-1cd2-456f-aa68-60c392087034.png
 title: Insurance Simplified
