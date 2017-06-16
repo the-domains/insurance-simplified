@@ -4,16 +4,16 @@ description: >-
   The Insurance Simplified company activities are regulated by legislation which
   includes the insurance intermediaries act (2005:405) and the insurance
   mediation act (FFFS 2005:11).
-dateModified: '2017-06-16T13:42:25.052Z'
-datePublished: '2017-06-16T13:42:25.757Z'
+dateModified: '2017-06-16T13:42:58.999Z'
+datePublished: '2017-06-16T13:42:59.881Z'
 title: Registration
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-06-16-registration.md
 starred: false
 datePublishedOriginal: '2017-06-16T13:42:25.757Z'
-sourcePath: _posts/2017-06-16-registration.md
 url: registration/index.html
 _type: Blurb
 
