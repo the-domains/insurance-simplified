@@ -57,3 +57,6 @@ purpose:
   - type: contact
     url: 'mailto:info@insurancesimplified.com'
     label: Contact us
+  - type: external
+    url: 'https://twitter.com/InsurSimplified'
+    label: '@InsurSimplified'
