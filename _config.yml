@@ -53,3 +53,7 @@ content_rating:
   adult: false
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ba3aee9-1cd2-456f-aa68-60c392087034.png
+purpose:
+  - type: contact
+    url: 'mailto:info@insurancesimplified.com'
+    label: Contact us
